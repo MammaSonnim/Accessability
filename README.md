@@ -1,4 +1,4 @@
-# Accessability
+# Accessibility
 сборник материалов по доступности веб-интерфейсов (draft)
 
 - W3C Recommendation: Accessible Rich Internet Applications (WAI-ARIA) 1.0 http://www.w3.org/TR/wai-aria/
