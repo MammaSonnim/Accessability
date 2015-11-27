@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 * + * {
-  margin-top: 10px;
+  margin-top: 1.5em;
 }
 
 a {
