@@ -16,3 +16,4 @@
 - (англ) подборка гайдов по теме https://pages.18f.gov/accessibility/ 
 
 - (англ) "Introduction to accessibility mechanics" https://vimeo.com/141249792
+- (англ) http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
